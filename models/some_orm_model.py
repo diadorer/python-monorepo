@@ -1,0 +1,4 @@
+
+class SomeOrmModel:
+    pass
+
